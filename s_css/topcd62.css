@@ -940,6 +940,7 @@ background-size: 100%;
         box-sizing: border-box;
         background: #fff;
         padding: 0.3rem 0.2rem 0 0.2rem;
+        margin-right: 0;
     }
 }
 
@@ -1459,7 +1460,7 @@ background-size: 100%;
 
 @media screen and (max-width: 767px) {
     .recruit_link_text p {
-        font-size: 0.18rem;
+        font-size: 0.15rem;
         padding-bottom: 0.3rem;
     }
 }
