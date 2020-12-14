@@ -926,12 +926,12 @@ background-size: 100%;
 }
 
 .service_works_text {
-    width: 50%;
+    width: 44%;
     box-sizing: border-box;
     background: #fff;
     padding: 0.6rem;
     padding-bottom: 0;
-    margin-right: -0.2rem;
+    margin-right: 0.1rem;
 }
 
 @media screen and (max-width: 767px) {
