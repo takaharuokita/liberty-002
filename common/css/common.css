@@ -184,6 +184,9 @@ html {
         -webkit-text-size-adjust: 90%;
         font-size: 90px
     }
+    #mv h2 {
+        right: 1rem;
+    }
 }
 
 @media screen and (min-width:1025px) and (max-width:1152px) {
